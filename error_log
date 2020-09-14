@@ -1,0 +1,11 @@
+[08-Feb-2019 00:05:41 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/resultados.php on line 212
+[09-Feb-2019 11:20:18 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/resultados.php on line 216
+[09-Feb-2019 16:35:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/consulta.php on line 66
+[09-Feb-2019 16:42:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 60
+[09-Feb-2019 16:49:12 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 53
+[09-Feb-2019 17:50:48 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 93
+[09-Feb-2019 18:21:31 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 137
+[09-Feb-2019 18:23:36 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 141
+[09-Feb-2019 18:25:07 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 141
+[09-Feb-2019 18:27:29 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 141
+[09-Feb-2019 18:56:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kgxelnjv/public_html/websitesVip/gustavomartinez.me/sabana/reporte.php on line 158
